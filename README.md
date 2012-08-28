@@ -1,4 +1,4 @@
-bunny
-=====
 
-Events from around the world, let's go RUNNING!
+Let's make Events for everyone
+
+RUN!
