@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/home/elrull/webapps/personal/apache2/bin/stop
+sleep 5
+/home/elrull/webapps/personal/apache2/bin/start

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+LD_LIBRARY_PATH=/home/elrull/webapps/personal/apache2/lib /home/elrull/webapps/personal/apache2/bin/httpd.worker -f /home/elrull/webapps/personal/apache2/conf/httpd.conf -k start
